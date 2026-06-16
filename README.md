@@ -1,2 +1,1 @@
-# MediSum-AI
-Medical Report Summarizer
+"# medisum-ai" 
